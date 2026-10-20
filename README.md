@@ -8,6 +8,7 @@
 3. Tabla de comandos
 4. Referencias
 5. Conclusión
+6. Anexos
 
 ## Introducción
 
@@ -110,6 +111,8 @@ Los comandos básicos de Linux permiten navegar por carpetas, crear directorios 
 >*Aprender estos comandos es un buen punto de partida para comenzar a utilizar Linux.*
 
 
+## 6. Anexos
+Los comandos básicos de Linux permiten navegar por carpetas, crear directorios y gestionar archivos de forma sencilla.
 
 
 
