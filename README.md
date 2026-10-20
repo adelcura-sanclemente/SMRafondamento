@@ -10,11 +10,6 @@
 5. Conclusión
 6. Anexos
 
-## Introducción
-
->#### *Linux* es un sistema operativo muy utilizado en servidores y ordenadores. Conocer algunos comandos básicos permite gestionar archivos y directorios desde la terminal.
-*Viene de un sistema operativo de código abierto y gratuito basado en Unix*
-Creado por Linus Torvalds en 1991
 
 
 ## Requisitos previos
