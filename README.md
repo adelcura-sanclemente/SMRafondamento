@@ -110,7 +110,7 @@ Los comandos básicos de Linux permiten navegar por carpetas, crear directorios 
 Los comandos básicos de Linux permiten navegar por carpetas, crear directorios y gestionar archivos de forma sencilla.
 
 
-## Información del proyecto
+## Información del proyecto 1
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
