@@ -99,7 +99,7 @@ rm
 
 ![alt text](linux-1.jpg)
 
-## 5. Conclusión
+## 5. Conclusión final
 
 Los comandos básicos de Linux permiten navegar por carpetas, crear directorios y gestionar archivos de forma sencilla.
 
