@@ -120,6 +120,13 @@ y el repositorio remoto se encuentra alojado en GitHub.
 * añadir mas ficheros
 * gestion de cosas importantes
 
+## nuevas mejoras
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
 
 
 
